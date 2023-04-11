@@ -1,6 +1,6 @@
 # demo-nestjs
 <p align="right">
-  <a href="https://twitter.com/_to33y" target="_blank" rel="noopener">
+  <a href="https://twitter.com/_to33y" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow">
   </a>
 </p>
