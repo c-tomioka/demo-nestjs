@@ -11,8 +11,8 @@ NestJS 練習用リポジトリ
 ## 特徴
 - Node.js（+ TypeScript） のフレームワーク
 - Angular ライクなフルスタックでスケーラブルなバックエンドフレームワーク
-- 内部では Express を使用（Fastify 使用に変更可）
-- MVC, REST API, GraphQL API などに活用
+- MVC ベース
+- REST API, GraphQL API などに活用
 
 ## 環境構築
 
